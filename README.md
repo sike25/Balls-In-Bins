@@ -11,5 +11,14 @@ Think of it like: The probability that a person has the same birthday as another
 
 [![Video on the Birthday Paradox](https://img.youtube.com/vi/v=ofTb57aZHZs/0.jpg)](https://www.youtube.com/watch?v=ofTb57aZHZs/)
 
+## The Program Demo
+
+https://user-images.githubusercontent.com/97693483/186259823-e9e4e6b5-0d24-43b2-bb3c-17452062c6a8.mp4
+
+https://user-images.githubusercontent.com/97693483/186259848-de0800d9-75aa-4e57-b344-ffd013c4983e.mp4
+
+
+
+
 
 
