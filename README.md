@@ -11,11 +11,20 @@ Think of it like: The probability that a person has the same birthday as another
 
 [![Video on the Birthday Paradox](https://img.youtube.com/vi/v=ofTb57aZHZs/0.jpg)](https://www.youtube.com/watch?v=ofTb57aZHZs/)
 
-## The Program Demo
+## The Program and Demos
+Check how soon it is you get a collision.
+The Balls in Bins simulation has the ability to run a regular random bin-picking game as well as 
+the Power of Two Choices variation -- where when choosing which bin in which to place a ball, instead of choosing a single bin, we choose two bins. If the two bins have the same occupancy,
+then the ball is placed in either bin; otherwise, the ball is placed in the smaller bin. 
 
 https://user-images.githubusercontent.com/97693483/186259823-e9e4e6b5-0d24-43b2-bb3c-17452062c6a8.mp4
 
 https://user-images.githubusercontent.com/97693483/186259848-de0800d9-75aa-4e57-b344-ffd013c4983e.mp4
+
+ ### Areas for Improvement.
+  1. Add a collation mechanism for gathering multiple, statistically usable results.
+  2. Adjust the throwing animation so the balls appear in the bins one after the other, after each mouse click.
+  3. Functionalize the back button.
 
 
 
