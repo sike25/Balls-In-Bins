@@ -1,2 +1,15 @@
 # Balls-In-Bins
+
 Visualizing the Pigeon-hole Principle, and the veridical Birthday Paradox with a game of balls in bins.
+
+## The Math
+When throwing balls randomly into a collection of n bins, observe that a collision (a ball going into a bin which already has a ball) is guaranteed to happen after n-1 trials. This is the pigeonhole principle (simple but important). But in fact a collision is extremely likely to happen sooner than this. This phenomenon is called the birthday paradox.
+
+In a room of just 23 people there’s a 50-50 chance of at least two people having the same birthday. In a room of 75 there’s a 99.9% chance of at least two people matching. How is this possible with so many days in a year and so few babies? This is a veridical paradox; it seems absurd but we have the Math to prove it is so.
+
+Think of it like: The probability that a person has the same birthday as another is 1/365, so let’s assume they have a different one. But now the third person has to have a different one from the first two. The next person has to have a different one from all three. With each new person, it gets less likely.
+
+[![Video on the Birthday Paradox](https://img.youtube.com/vi/v=ofTb57aZHZs/0.jpg)](https://www.youtube.com/watch?v=ofTb57aZHZs/)
+
+
+
